@@ -1,4 +1,0 @@
-bode  {
-font-size:50px;
-
-}
